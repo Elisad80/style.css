@@ -1,0 +1,36 @@
+h1 {
+    text-align: center;
+    colour: rgb(255, 0, 132);
+}
+
+h3 {
+    text-align: center;
+    border-radius: 10px;
+    border: 1px solid rgb(107, 9, 200);
+    padding: 12px;
+    color:rgb(107, 9, 200);
+}
+
+img {
+    border-radius: 15px;
+    width: 100%;
+}
+
+p {
+    font-size: 24px;
+    line-height: 40px;
+}
+
+button{
+    width: 100%;
+    background: rgb(220, 35, 115);
+    color: white;
+    padding: 20px;
+    font-size: 20px;
+    border-radius: 15px;
+}
+
+footer {
+    text-align: center;
+    font-size:12px;
+}
